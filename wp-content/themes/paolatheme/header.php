@@ -28,11 +28,5 @@
             </ul>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-12 welcome">
-            <h1>For a sweeter day</h1>
-            <h2>book now a taste of sweetness</h2>
-          </div>
-        </div>
       </nav>
 
