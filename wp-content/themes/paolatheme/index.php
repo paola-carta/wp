@@ -1,12 +1,10 @@
 <?php get_header(); ?>
-    <div class="row">
+        <div class="row">
           <div class="col-md-12 welcome">
             <h1><?php bloginfo('name') ?></h1>
             <h2><?php bloginfo('description') ?></h2>
           </div>
         </div>
-      </div>
-  </div>
   <div class="container-fluid" id="Contact">
     <div class="row text-center">
       <h1>Contact us</h1>
