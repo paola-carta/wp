@@ -25,7 +25,7 @@ h2 {
 .navbar-default .navbar-nav>li>a {
 	color: #666;
 	font-size: 18px;
-    font-weight: 600;
+    	font-weight: 600;
 }
 
 .paola-form{
@@ -37,19 +37,19 @@ h2 {
 }
 
 .welcome {
-    background: rgba(0, 0, 0, 0.2);
-    color: rgba(256, 256, 256, 0.85);
-    padding: 150px;
-    text-align: center;
+    	background: rgba(0, 0, 0, 0.2);
+   	 color: rgba(256, 256, 256, 0.85);
+    	padding: 150px;
+    	text-align: center;
 }
 
 @media (max-width: 750px) { 
 	h1 {
-    	font-size: 29px;
+    		font-size: 29px;
 	} 
 
 	h2 {
-    	font-size: 16px;
+    		font-size: 16px;
 	}
 
 	.navbar-default .navbar-collapse{
@@ -58,8 +58,8 @@ h2 {
 	} 
 	.navbar-default .navbar-nav>li>a {
 		font-size: 20px;
-    	text-align: center;
-    	color: #000;
+    		text-align: center;
+    		color: #000;
 	}
 
 }
